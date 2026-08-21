@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" role="img" aria-label="Abstract Indian Ocean dining setting">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#173f3d"/><stop offset="1" stop-color="#071f1e"/></linearGradient><linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#65c6bd"/><stop offset="1" stop-color="#0c7774"/></linearGradient></defs>
+<rect width="1400" height="1000" fill="url(#bg)"/><rect x="70" y="80" width="1260" height="580" rx="22" fill="url(#sea)"/>
+<path d="M70 475 Q350 390 560 470 T970 440 T1330 430 V660 H70Z" fill="#f2dfc7" opacity=".85"/>
+<circle cx="1080" cy="200" r="80" fill="#fff0c1"/>
+<rect x="250" y="700" width="900" height="60" rx="28" fill="#c69461"/>
+<rect x="310" y="755" width="35" height="180" fill="#8b5b3d"/><rect x="1050" y="755" width="35" height="180" fill="#8b5b3d"/>
+<g fill="#fffdf8"><circle cx="520" cy="690" r="95"/><circle cx="870" cy="690" r="95"/></g>
+<g fill="#d96d55"><circle cx="500" cy="675" r="34"/><circle cx="850" cy="675" r="34"/></g>
+<g stroke="#c3a05d" stroke-width="9" fill="none"><path d="M300 0 Q360 120 420 0"/><path d="M610 0 Q670 150 730 0"/><path d="M950 0 Q1010 120 1070 0"/></g>
+<g fill="#c3a05d"><ellipse cx="360" cy="145" rx="75" ry="95"/><ellipse cx="670" cy="175" rx="75" ry="95"/><ellipse cx="1010" cy="145" rx="75" ry="95"/></g>
+</svg>

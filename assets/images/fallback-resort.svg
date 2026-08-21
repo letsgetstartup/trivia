@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Abstract Zanzibar ocean and resort landscape">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8fd5d0"/><stop offset=".65" stop-color="#f2ddd0"/><stop offset="1" stop-color="#f3cdb3"/></linearGradient>
+ <linearGradient id="sea" x1="0" y1="0" x2="1" y2=".4"><stop stop-color="#0c7774"/><stop offset=".55" stop-color="#45b9b0"/><stop offset="1" stop-color="#bfe9e3"/></linearGradient>
+ <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff5dc"/><stop offset="1" stop-color="#dfcba8"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1600" height="1000" fill="url(#sky)"/>
+<circle cx="1240" cy="190" r="90" fill="#fff5d4" opacity=".85"/>
+<path d="M0 390 C220 330 390 420 640 370 C900 315 1100 410 1600 330 L1600 710 L0 710Z" fill="url(#sea)"/>
+<path d="M0 590 C250 535 460 665 760 590 C1040 520 1250 620 1600 560 L1600 810 L0 810Z" fill="#48b8ae" opacity=".66"/>
+<path d="M0 700 C340 640 490 760 850 690 C1120 640 1350 710 1600 670 L1600 1000 L0 1000Z" fill="url(#sand)"/>
+<g opacity=".88">
+ <rect x="315" y="450" width="970" height="245" rx="12" fill="#fffdf8"/>
+ <rect x="380" y="395" width="360" height="175" rx="8" fill="#fffdf8"/>
+ <rect x="850" y="395" width="360" height="175" rx="8" fill="#fffdf8"/>
+ <g fill="#174a48"><rect x="425" y="440" width="120" height="88"/><rect x="575" y="440" width="120" height="88"/><rect x="895" y="440" width="120" height="88"/><rect x="1045" y="440" width="120" height="88"/></g>
+ <rect x="470" y="585" width="660" height="78" rx="6" fill="#0f7774"/>
+ <path d="M720 575 L800 475 L880 575Z" fill="#c6a267"/>
+</g>
+<g fill="#173f3d">
+ <path d="M205 760 Q245 470 250 250 Q280 490 290 760Z"/>
+ <path d="M258 310 Q80 235 105 180 Q235 220 270 285Z"/>
+ <path d="M258 315 Q415 175 475 225 Q360 300 270 330Z"/>
+ <path d="M255 328 Q92 365 62 320 Q180 286 260 310Z"/>
+ <path d="M1350 750 Q1328 520 1335 360 Q1370 520 1390 750Z"/>
+ <path d="M1345 390 Q1200 320 1195 270 Q1310 295 1360 370Z"/>
+ <path d="M1350 400 Q1485 285 1540 330 Q1450 400 1360 420Z"/>
+</g>
+<g fill="#fff" opacity=".45" filter="url(#blur)"><ellipse cx="260" cy="545" rx="180" ry="22"/><ellipse cx="1120" cy="550" rx="230" ry="22"/></g>
+</svg>
